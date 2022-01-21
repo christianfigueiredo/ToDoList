@@ -1,0 +1,14 @@
+{
+  "name": "todolist",
+  "version": "1.0.0",
+  "description": "Aprendendo nodejs ",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm index"
+  },
+  "author": "Christian Figueiredo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
